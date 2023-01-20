@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitedevil2099" alt="whitedevil2099" /></a> </p>
 
-- 🔭 I’m currently working on [LTZ-Chain](https://github.com/Lumatozer/LTZ-Chain)
+- 🔭 I’m currently working on [T-crack](https://github.com/autm-labs/T-Crack) & [LTZ-Chain](https://github.com/Lumatozer/LTZ-Chain)
 
 - 🌱 I’m currently learning **https://www.python.org/about/**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking forward to work together with **my team**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lumatozer](https://github.com/Lumatozer)
+- 👨‍💻 All of my projects are available at [https://github.com/autm-labs](https://github.com/autm-labs) [https://github.com/Lumatozer](https://github.com/Lumatozer)
 
 - 💬 Searching **for better developers and learn from them.**
 
