@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking forward to work together with **my team**
 
-- 👨‍💻 All of my projects are available at [https://github.com/autm-labs](https://github.com/autm-labs) [https://github.com/Lumatozer](https://github.com/Lumatozer)
+- 👨‍💻 All of my projects are available at [https://github.com/autm-labs](https://github.com/autm-labs) & [https://github.com/Lumatozer](https://github.com/Lumatozer)
 
 - 💬 Searching **for better developers and learn from them.**
 
